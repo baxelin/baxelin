@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working at Hypera.<br>
 🌱 I’m currently learning Java and OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB.<br>
-
+🌱 Also learning Python, PySide6, Django, Selenium, Regexp, TDD, POO, Design Patterns GoF.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucasbaccelli/) 
