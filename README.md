@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Hypera.<br>
+🔭 I’m currently working at Hypera Pharma as a intern.<br>
 🌱 I’m currently learning Java and OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB.<br>
 🌱 Also learning Python, PySide6, Django, Selenium, Regexp, TDD, POO, Design Patterns GoF.<br>
 
