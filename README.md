@@ -1,7 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working as a IT Suport at Zangari.<br>
 <!-- 🌱 I’m currently learning Java and OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB.<br>) -->
-🌱 Also learning Python, PySide6, Django, Selenium, Regexp, TDD, POO, Design Patterns GoF.<br>
+<!-- 🌱 Also learning Python, PySide6, Django, Selenium, Regexp, TDD, POO, Design Patterns GoF.<br> -->
+🌱 I'm currently learning HTML, CSS, JavaScript. After that my plan is to learn BootStrap, Tailwind, React and Next.JS. 
+Backend stacks coming soon!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasbaccelli/) 
