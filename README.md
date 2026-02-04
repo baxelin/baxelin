@@ -54,13 +54,3 @@ Próximos passos: <strong>Next.js</strong>.<br>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🟩 Contribuições ao longo do ano
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baxelin&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide=prs&theme=react" height="150"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/baxelin/baxelin/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
